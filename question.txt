@@ -1,0 +1,28 @@
+     Examen pratique - Todo
+
+
+Consignes:
+    Créer le fichier js/todo.js
+    Ne pas modifier le HTML ou le CSS
+    Utiliser seulement le JavaScript natif
+    Ne pas oublier de faire un PUSH régulièrement pendant l'examen.
+    Conserver la structure du repertoire dans votre referentiel GIT.
+
+Fonctionnement
+    À l'ouverture de la page, le curseur est positionné dans le champ taskInput.
+    La touche "Enter" ou  le bouton "Ajout" ajoute la tache à la liste si le champ taskInput n'est pas vide.
+    Le bouton "Ajout" est désactivé lorsque le champ taskInput est vide.
+    Le bouton "Suppression" est désactivé si aucune case à cocher n'est sélectionnée dans la liste.
+    Le bouton "suppression" retire tous les éléments dont la case à cocher est sélectionnée.
+    Un clic sur un item de la liste, applique un style barré (strikethrough) sur le texte de l'item de la liste.
+
+Barème de correction sur 100
+
+    Position du curseur à l'ouverture                               8
+    Ajout d'une tache à la liste ("Enter" ou  le bouton "Ajout")    24
+    Bouton "Ajout" désactivé:                                       8
+    Bouton "Suppression" désactivé:                                 8
+    Suppression des taches sélectionnées de la liste:               24
+    Applique un style barré sur les taches:                         8
+
+    Code propre: Nom et étendue des variables et fonction ...       20
